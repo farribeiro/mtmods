@@ -1,0 +1,54 @@
+[submodule "accountmgr"]
+	path = accountmgr
+	url = https://gitlab.com/rubenwardy/accountmgr.git
+[submodule "areas"]
+	path = areas
+	url = https://github.com/minetest-mods/areas.git
+[submodule "automobiles_pck"]
+	path = automobiles_pck
+	url = https://github.com/APercy/automobiles_pck.git
+[submodule "Biofuel"]
+	path = Biofuel
+	url = https://github.com/Lokrates/Biofuel.git
+[submodule "bonemeal"]
+	path = bonemeal
+	url = https://codeberg.org/tenplus1/bonemeal.git
+[submodule "digilines"]
+	path = digilines
+	url = https://github.com/minetest-mods/digilines.git
+[submodule "drawers"]
+	path = drawers
+	url = https://github.com/minetest-mods/drawers.git
+[submodule "pipeworks"]
+	path = pipeworks
+	url = https://github.com/mt-mods/pipeworks.git
+[submodule "void_chest"]
+	path = void_chest
+	url = https://github.com/MeseCraft/void_chest.git
+[submodule "Minetest-WorldEdit"]
+	path = Minetest-WorldEdit
+	url = https://github.com/Uberi/Minetest-WorldEdit.git
+[submodule "teleport-request"]
+	path = teleport-request
+	url = https://github.com/minetest-mods/teleport-request.git
+[submodule "mesecons"]
+	path = mesecons
+	url = https://github.com/minetest-mods/mesecons.git
+[submodule "unified_inventory"]
+	path = unified_inventory
+	url = https://github.com/minetest-mods/unified_inventory.git
+[submodule "ethereal"]
+	path = ethereal
+	url = https://codeberg.org/tenplus1/ethereal
+[submodule "etherium_stuff"]
+	path = etherium_stuff
+	url = https://gitlab.com/alerikaisattera/etherium_stuff.git
+[submodule "steampunk_blimp"]
+	path = steampunk_blimp
+	url = https://github.com/APercy/steampunk_blimp.git
+[submodule "airutils"]
+	path = airutils
+	url = https://github.com/APercy/airutils.git
+[submodule "awards"]
+	path = awards
+	url = https://gitlab.com/rubenwardy/awards.git

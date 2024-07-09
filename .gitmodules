@@ -52,3 +52,6 @@
 [submodule "awards"]
 	path = awards
 	url = https://gitlab.com/rubenwardy/awards.git
+[submodule "anvil"]
+	path = anvil
+	url = https://github.com/minetest-mods/anvil.git

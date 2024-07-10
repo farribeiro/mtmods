@@ -61,3 +61,6 @@
 [submodule "creatura"]
 	path = creatura
 	url = https://github.com/ElCeejo/creatura.git
+[submodule "fakelib"]
+	path = fakelib
+	url = https://github.com/OgelGames/fakelib.git

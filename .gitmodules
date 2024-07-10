@@ -73,3 +73,6 @@
 [submodule "pride_flags"]
 	path = pride_flags
 	url = https://codeberg.org/Wuzzy/pride_flags.git
+[submodule "minetest-country_flags"]
+	path = minetest-country_flags
+	url = https://github.com/snowyu/minetest-country_flags.git

@@ -58,3 +58,6 @@
 [submodule "animalia"]
 	path = animalia
 	url = https://github.com/ElCeejo/animalia.git
+[submodule "creatura"]
+	path = creatura
+	url = https://github.com/ElCeejo/creatura.git

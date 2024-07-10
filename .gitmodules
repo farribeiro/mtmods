@@ -76,3 +76,6 @@
 [submodule "minetest-country_flags"]
 	path = minetest-country_flags
 	url = https://github.com/snowyu/minetest-country_flags.git
+[submodule "minetest-illumination"]
+	path = minetest-illumination
+	url = https://notabug.org/Piezo_/minetest-illumination.git

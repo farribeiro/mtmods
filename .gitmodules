@@ -82,3 +82,6 @@
 [submodule "filler"]
 	path = filler
 	url = https://github.com/cx384/filler.git
+[submodule "farming"]
+	path = farming
+	url = https://codeberg.org/tenplus1/farming.git

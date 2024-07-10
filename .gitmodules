@@ -55,3 +55,6 @@
 [submodule "anvil"]
 	path = anvil
 	url = https://github.com/minetest-mods/anvil.git
+[submodule "animalia"]
+	path = animalia
+	url = https://github.com/ElCeejo/animalia.git

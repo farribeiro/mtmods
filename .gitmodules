@@ -85,3 +85,6 @@
 [submodule "farming"]
 	path = farming
 	url = https://codeberg.org/tenplus1/farming.git
+[submodule "ju52"]
+	path = ju52
+	url = https://github.com/APercy/ju52

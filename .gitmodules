@@ -97,3 +97,6 @@
 [submodule "minekart"]
 	path = minekart
 	url = https://github.com/APercy/minekart.git
+[submodule "motorboat"]
+	path = motorboat
+	url = https://github.com/APercy/motorboat.git

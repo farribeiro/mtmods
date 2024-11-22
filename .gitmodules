@@ -88,3 +88,6 @@
 [submodule "ju52"]
 	path = ju52
 	url = https://github.com/APercy/ju52
+[submodule "pa28"]
+	path = pa28
+	url = https://github.com/APercy/pa28.git

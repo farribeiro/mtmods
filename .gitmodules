@@ -91,3 +91,6 @@
 [submodule "pa28"]
 	path = pa28
 	url = https://github.com/APercy/pa28.git
+[submodule "helicopter"]
+	path = helicopter
+	url = https://github.com/APercy/helicopter.git

@@ -94,3 +94,6 @@
 [submodule "helicopter"]
 	path = helicopter
 	url = https://github.com/APercy/helicopter.git
+[submodule "minekart"]
+	path = minekart
+	url = https://github.com/APercy/minekart.git

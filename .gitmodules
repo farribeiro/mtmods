@@ -103,3 +103,6 @@
 [submodule "hidroplane"]
 	path = hidroplane
 	url = https://github.com/APercy/hidroplane.git
+[submodule "ju52_hydro"]
+	path = ju52_hydro
+	url = https://github.com/APercy/ju52_hydro.git

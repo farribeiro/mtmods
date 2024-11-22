@@ -106,3 +106,6 @@
 [submodule "ju52_hydro"]
 	path = ju52_hydro
 	url = https://github.com/APercy/ju52_hydro.git
+[submodule "savoia_s21"]
+	path = savoia_s21
+	url = https://github.com/APercy/savoia_s21.git

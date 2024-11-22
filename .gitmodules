@@ -100,3 +100,6 @@
 [submodule "motorboat"]
 	path = motorboat
 	url = https://github.com/APercy/motorboat.git
+[submodule "hidroplane"]
+	path = hidroplane
+	url = https://github.com/APercy/hidroplane.git

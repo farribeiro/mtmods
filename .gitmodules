@@ -109,3 +109,6 @@
 [submodule "savoia_s21"]
 	path = savoia_s21
 	url = https://github.com/APercy/savoia_s21.git
+[submodule "minetest-cloaking"]
+	path = minetest-cloaking
+	url = https://github.com/luk3yx/minetest-cloaking.git

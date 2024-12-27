@@ -112,3 +112,6 @@
 [submodule "minetest-cloaking"]
 	path = minetest-cloaking
 	url = https://github.com/luk3yx/minetest-cloaking.git
+[submodule "mobkit"]
+	path = mobkit
+	url = https://github.com/mt-mods/mobkit.git

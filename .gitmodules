@@ -115,3 +115,9 @@
 [submodule "mobkit"]
 	path = mobkit
 	url = https://github.com/mt-mods/mobkit.git
+[submodule "supercub"]
+	path = supercub
+	url = https://github.com/APercy/supercub.git
+[submodule "ww1_planes"]
+	path = ww1_planes
+	url = https://github.com/APercy/ww1_planes.git
